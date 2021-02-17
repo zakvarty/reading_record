@@ -8,6 +8,7 @@ This is where I record the books I read each year and the books I might like to 
 - Conversations with friends - Sally Rooney
 - In the dream house - Carmen Maria Machado
 - Your House is on Fire, Your Children All Gone - Stefan Kiesbye
+- The Hole -  Hye-Young Pyun, Sora Kim-Russell (Translator)
 
 ## 2021 
 1. The authenticity project - Clare Pooley
