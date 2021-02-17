@@ -6,6 +6,8 @@ This is where I record the books I read each year and the books I might like to 
 - The professor and the housekeeper - (?)
 - The windup bird chronicle - Haruki Murakami
 - Conversations with friends - Sally Rooney
+- In the dream house - Carmen Maria Machado
+- All your children have gone/ grown ... german horror, paperback dreams reccomend, lookup
 
 ## 2021 
 1. The authenticity project - Clare Pooley
