@@ -3,10 +3,8 @@ This is where I record the books I read each year and the books I might like to 
 
 ## TBR 
 - How to do nothing - Jenny Odell
-- The housekeeper and the professor - by Yōko Ogawa, Stephen Snyder (Translator)
 - The windup bird chronicle - Haruki Murakami
-- Conversations with friends - Sally Rooney
-- In the dream house - Carmen Maria Machado
+- Radio Silence - Alice Oseman
 - Your House is on Fire, Your Children All Gone - Stefan Kiesbye
 - The Hole -  Hye-Young Pyun, Sora Kim-Russell (Translator)
 
@@ -17,12 +15,13 @@ This is where I record the books I read each year and the books I might like to 
 4. The Thursday murder club - Richard Osman 
 5. The Testaments - Margaret Atwood 
 6. Conversations with friends - Sally Rooney 
-7. The dice man - Luke Rhinehart 
-8. Introduction to statistical modelling of extreme values - Stuart Coles 
-9. Stories of the law and how it is borken - The Secret Barrister
-10. College Science Teaching - Terry McGlynn 
-11. In the dream house - Carmen Maria Machado
-12. ...
+7. The housekeeper and the professor - by Yōko Ogawa, Stephen Snyder (Translator)
+8. The dice man - Luke Rhinehart 
+9. Introduction to statistical modelling of extreme values - Stuart Coles 
+10. Stories of the law and how it is borken - The Secret Barrister
+11. College Science Teaching - Terry McGlynn 
+12. In the dream house - Carmen Maria Machado
+13. ...
 
 
 ## 2019-2020:
