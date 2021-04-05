@@ -15,8 +15,14 @@ This is where I record the books I read each year and the books I might like to 
 2. Dune - Frank Herbert
 3. How to make the world add up: Ten rules for thinking differently about numbers - Tim Harford
 4. The Thursday murder club - Richard Osman 
-5. The testaments - Margaret Atwood 
-6. ...
+5. The Testaments - Margaret Atwood 
+6. Conversations with friends - Sally Rooney 
+7. The dice man - Luke Rhinehart 
+8. Introduction to statistical modelling of extreme values - Stuart Coles 
+9. Stories of the law and how it is borken - The Secret Barrister
+10. College Science Teaching - Terry McGlynn 
+11. In the dream house - Carmen Maria Machado
+12. ...
 
 
 ## 2019-2020:
