@@ -18,8 +18,8 @@ This is where I record the books I read each year and the books I might like to 
 7. The housekeeper and the professor - by Yōko Ogawa, Stephen Snyder (Translator)
 8. The dice man - Luke Rhinehart 
 9. Introduction to statistical modelling of extreme values - Stuart Coles 
-10. Stories of the law and how it is borken - The Secret Barrister
-11. College Science Teaching - Terry McGlynn 
+10. Stories of the law and how it is broken - The Secret Barrister
+11. College Science Teaching - Terry McGlynn (2021-04-07)
 12. In the dream house - Carmen Maria Machado
 13. ...
 
