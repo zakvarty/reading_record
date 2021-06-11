@@ -4,9 +4,35 @@ This is where I record the books I read each year and the books I might like to 
 ## TBR 
 - How to do nothing - Jenny Odell
 - The windup bird chronicle - Haruki Murakami
-- Radio Silence - Alice Oseman
-- Your House is on Fire, Your Children All Gone - Stefan Kiesbye
+- Circe - Madeline Miller
+- Eating Animals - Jonathan Saffran Foer 
+- Dune Messiah - Frank Herbert
+- Her Body and Other Parties - Carmen Maria Machado
+- Something wicked this way comes - Ray Bradbury 
+- On Earth we are briefly gorgeous - Ocean Vuong
 - The Hole -  Hye-Young Pyun, Sora Kim-Russell (Translator)
+- Invisible Women - Caroline Criado Perez 
+- Piranesi - Susan Clarke
+- The Secret History - Donna Tartt
+- Convenience Store Woman - Sayaka Murata
+
+## TBR-ish 
+- Meanwhile in Dopamine City - DBC Pierre 
+- Tyll - Daniel Kemlmann 
+- How to win fiends and influence people - Dale Carnegie 
+- The Mr Porter guide to a better day 
+- Professor Higgins's Problem Collection - Peter M Higgins 
+- The discomfort of Evening - Marieke Lucas Rijneveld 
+- Blood and guts in high school - Kathy Acker 
+- The Nickel Boys - Colson Whitehead
+- The Need - Helen Phillips
+- The silence of the girls -  Pat Barker
+- The ginger child - Patrick Flanery
+- Bonjour Tristesse - Francois Sagan
+- The Outsiders - S. E. Hinton
+- Micro Avdentures - Alastair Humphreys
+- Decline and Fall - Evelyn Waugh
+
 
 ## 2021 
 1. The authenticity project - Clare Pooley
@@ -21,7 +47,11 @@ This is where I record the books I read each year and the books I might like to 
 10. Stories of the law and how it is broken - The Secret Barrister
 11. College Science Teaching - Terry McGlynn (2021-04-07)
 12. In the dream house - Carmen Maria Machado
-13. ...
+13. Radio Silence - Alice Oseman 
+14. Your House is on Fire, Your Children All Gone - Stefan Kiesbye
+15. Nick and Charlie - Alice Oseman 
+16. Solaris - Stanisław Lem
+17. ...
 
 
 ## 2019-2020:
