@@ -1,11 +1,13 @@
 # Reading record :book:
 This is where I record the books I read each year and the books I might like to read in the future. 
 
+## Currently reading 📖
+- Circe - Madeline Miller
+- Eating Animals - Jonathan Saffran Foer 
+
 ## TBR 
 - How to do nothing - Jenny Odell
 - The windup bird chronicle - Haruki Murakami
-- Circe - Madeline Miller
-- Eating Animals - Jonathan Saffran Foer 
 - Dune Messiah - Frank Herbert
 - Her Body and Other Parties - Carmen Maria Machado
 - Something wicked this way comes - Ray Bradbury 
@@ -35,22 +37,22 @@ This is where I record the books I read each year and the books I might like to 
 
 
 ## 2021 
-1. The authenticity project - Clare Pooley
+1. The authenticity project - Clare Pooley ♣️
 2. Dune - Frank Herbert
 3. How to make the world add up: Ten rules for thinking differently about numbers - Tim Harford
-4. The Thursday murder club - Richard Osman 
+4. The Thursday murder club - Richard Osman ♣️
 5. The Testaments - Margaret Atwood 
 6. Conversations with friends - Sally Rooney 
 7. The housekeeper and the professor - by Yōko Ogawa, Stephen Snyder (Translator)
-8. The dice man - Luke Rhinehart 
+8. The dice man - Luke Rhinehart ♣️
 9. Introduction to statistical modelling of extreme values - Stuart Coles 
 10. Stories of the law and how it is broken - The Secret Barrister
 11. College Science Teaching - Terry McGlynn (2021-04-07)
-12. In the dream house - Carmen Maria Machado
+12. In the dream house - Carmen Maria Machado ♣️
 13. Radio Silence - Alice Oseman 
 14. Your House is on Fire, Your Children All Gone - Stefan Kiesbye
 15. Nick and Charlie - Alice Oseman 
-16. Solaris - Stanisław Lem
+16. Solaris - Stanisław Lem ♣️
 17. ...
 
 
@@ -72,8 +74,8 @@ This is where I record the books I read each year and the books I might like to 
 15. You too can have a body like mine - Alexandra Kleeman
 16. I'm thinking of ending things - Iain Reed 
 17. Supper club - Lara Williams
-18. Girl, woman, other - Bernadine Evaristo
-19. Lolita - Vladimir Nabokov 
+18. Girl, woman, other - Bernadine Evaristo ♣️
+19. Lolita - Vladimir Nabokov ♣️
 20. Severance - Ling Ma 
 21. The school of life - Alain de Botton
 22. ...
