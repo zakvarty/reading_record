@@ -5,7 +5,7 @@ This is where I record the books I read each year and the books I might like to 
 - Circe - Madeline Miller
 - Eating Animals - Jonathan Saffran Foer 
 
-## TBR 
+## TBR ⏲️
 - How to do nothing - Jenny Odell
 - The windup bird chronicle - Haruki Murakami
 - Dune Messiah - Frank Herbert
@@ -18,7 +18,7 @@ This is where I record the books I read each year and the books I might like to 
 - The Secret History - Donna Tartt
 - Convenience Store Woman - Sayaka Murata
 
-## TBR-ish 
+## TBR-ish ⏰❓
 - Meanwhile in Dopamine City - DBC Pierre 
 - Tyll - Daniel Kemlmann 
 - How to win fiends and influence people - Dale Carnegie 
