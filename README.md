@@ -54,7 +54,7 @@ This is where I record the books I read each year and the books I might like to 
 15. Nick and Charlie - Alice Oseman 
 16. Solaris - Stanisław Lem ♣️
 17. Show your work - Austin Kleon 
-18. Circe - Madeline Miller
+18. Circe - Madeline Miller (2021-06-19)
 19. ...
 
 
