@@ -2,7 +2,6 @@
 This is where I record the books I read each year and the books I might like to read in the future. 
 
 ## Currently reading 📖
-- Circe - Madeline Miller
 - Eating Animals - Jonathan Saffran Foer 
 
 ## TBR ⏲️
@@ -54,7 +53,9 @@ This is where I record the books I read each year and the books I might like to 
 14. Your House is on Fire, Your Children All Gone - Stefan Kiesbye
 15. Nick and Charlie - Alice Oseman 
 16. Solaris - Stanisław Lem ♣️
-17. ...
+17. Show your work - Austin Kleon 
+18. Circe - Madeline Miller
+19. ...
 
 
 ## 2019-2020:
