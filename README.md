@@ -17,6 +17,7 @@ This is where I record the books I read each year and the books I might like to 
 - Piranesi - Susan Clarke
 - The Secret History - Donna Tartt
 - Convenience Store Woman - Sayaka Murata
+- Gender swapped fairytales - Karrie Fransman & Jonathan Plackett 
 
 ## TBR-ish ⏰❓
 - Meanwhile in Dopamine City - DBC Pierre 
