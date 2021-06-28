@@ -4,7 +4,7 @@ This is where I record the books I read each year and the books I might like to 
 ## Currently reading 📖
 - Eating Animals - Jonathan Saffran Foer 
 - Invisible Women - Caroline Criado Perez 
-- On being different - Merle Miller
+- The inheritance of loss - Kiran Desai ♣️
 
 ## TBR ⏲️
 - How to do nothing - Jenny Odell
@@ -56,7 +56,8 @@ This is where I record the books I read each year and the books I might like to 
 17. Show your work - Austin Kleon 
 18. Circe - Madeline Miller (2021-06-19)
 19. Convenience Store Woman - Sayaka Murata
-20. ...
+20. On being different - Merle Miller
+21. ...
 
 
 ## 2019-2020:
