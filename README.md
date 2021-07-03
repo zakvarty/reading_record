@@ -2,7 +2,6 @@
 This is where I record the books I read each year and the books I might like to read in the future. 
 
 ## Currently reading 📖
-- Eating Animals - Jonathan Saffran Foer 
 - Invisible Women - Caroline Criado Perez 
 - The inheritance of loss - Kiran Desai ♣️
 
@@ -57,7 +56,8 @@ This is where I record the books I read each year and the books I might like to 
 18. Circe - Madeline Miller (2021-06-19)
 19. Convenience Store Woman - Sayaka Murata
 20. On being different - Merle Miller
-21. ...
+21. Eating Animals - Jonathan Saffran Foer 
+22. ...
 
 
 ## 2019-2020:
